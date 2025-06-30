@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tac-001",
+    "category": "tactician",
+    "name": "Featherknight",
+    "rarity": "legendary",
+    "released": "2019-07-09",
+    "shopHistory": [
+      {"date": "2022-01-10", "price": 925},
+      {"date": "2024-05-04", "price": 925}
+    ],
+    "stars": [
+      { "level": 1, "art": "https://cdn.site/img/featherknight-1.png" },
+      { "level": 2, "art": "https://cdn.site/img/featherknight-2.png" },
+      { "level": 3, "art": "https://cdn.site/img/featherknight-3.png" }
+    ]
+  },
+  { "id":"arena-045", "category":"arena", … }
+]
